@@ -1,0 +1,38 @@
+# Environment variables (NEVER upload these!)
+.env
+*.env
+
+# Python cache files (automatically generated)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments (each developer has their own)
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE files (personal preferences)
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store      # macOS
+Thumbs.db      # Windows
+*.tmp
+
+# Logs and debugging
+*.log
+debug.txt
+
+# Backup files
+*.bak
+*.backup

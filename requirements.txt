@@ -1,0 +1,5 @@
+# HTTP requests for Notion API
+requests>=2.31.0
+
+# Environment variable management (keeps secrets safe)
+python-dotenv>=1.0.0
